@@ -1,4 +1,4 @@
-# Wine Datasets
+# Wine Analysis
 
 In this notebook, I will be looking at two wine datasets (one for white wines, one for reds). 
 The goals here are to practice exploratory data analysis and some different visualization techniques, 
